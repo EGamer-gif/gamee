@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://egamer-gif.github.io/gamee/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in EGamer-gif/gamee project"
+        ]
+    },
+    "items": []
+}
